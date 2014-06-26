@@ -1,8 +1,8 @@
 # WEEK 8 (WEDNESDAY, OCT. 22)
 
 ### Topics
-* Code: Modeling data with Peewee and SQLite -- Detail pages.
-* Importing data with Fabric -- Detail pages.
+* Code: Modeling detail pages with Peewee and SQLite.
+* Code: Importing detail pages with Fabric.
 
 ### Readings
 * [The ProPublica news apps style guide](https://github.com/propublica/guides/blob/master/news-apps.md)
