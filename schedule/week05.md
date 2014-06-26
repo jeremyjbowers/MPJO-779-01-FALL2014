@@ -1,15 +1,12 @@
 # WEEK 5 (WEDNESDAY, OCT. 1)
 
 ### Topics
-* Code: Modeling data with Peewee and SQLite
-* Code: Importing data with Fabric
-* Code: Version control with Git
-* Code: Being hygenic
+* Code: Screen scraping with BeautifulSoup.
+* Code: Data structures including dictionaries and lists.
 
 ### Readings
-* [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
-* [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
-* [NPR Visuals' Best Practices](https://github.com/nprapps/bestpractices)
+* [Finding stories in the structure of data](https://source.opennews.org/en-US/learning/finding-stories-structure-data/)
+* [Sane data updates are harder than you think, part 1](https://source.opennews.org/en-US/learning/sane-data-updates-are-harder-you-think/)
 
 ### Assignments
 * Quiz 5

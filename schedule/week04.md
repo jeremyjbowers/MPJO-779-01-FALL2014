@@ -6,11 +6,10 @@
 * Code: Data structures including dictionaries and lists
 
 ### Readings
-* [Finding stories in the structure of data](https://source.opennews.org/en-US/learning/finding-stories-structure-data/)
-* [Sane data updates are harder than you think, part 1](https://source.opennews.org/en-US/learning/sane-data-updates-are-harder-you-think/)
-* [Sane data updates are harder than you think, part 2](https://source.opennews.org/en-US/learning/sane-data-updates-are-harder-you-think-part-2/)
-* [Sane data updates are harder than you think, part 3](https://source.opennews.org/en-US/learning/sane-data-updates-are-harder-you-think-part-3/)
-* [Bulletproofing your data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md)
+* [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
+* [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
+* [NPR Visuals' Best Practices](https://github.com/nprapps/bestpractices)
+* [Good habits](http://hackerjournalist.net/2010/03/13/nicar-2010-talk-good-habits/)
 
 ### Assignments
 * Quiz 4
