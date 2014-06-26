@@ -1,9 +1,9 @@
 # WEEK 4 (WEDNESDAY, SEPT. 24)
 
 ### Topics
-* Code: Modeling data.
-* Code: Screen scraping.
-* Code: Importing data.
+* Code: Introduction to Python and Virtualenv
+* Code: Screen scraping with BeautifulSoup
+* Code: Data structures including dictionaries and lists
 
 ### Readings
 * [Finding stories in the structure of data](https://source.opennews.org/en-US/learning/finding-stories-structure-data/)
