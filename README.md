@@ -64,7 +64,7 @@ Total score out of 100 for final project: 25% of your final grade
 Graduate course grades include A, A-, B+, B, B-, C and F. There are no grades of C+, C- or D.
 
 Letter grade | Score range
--- | -------------
+---------- | -------------
 A | 100.00 – 93.00
 A- | 92.99 – 90.00
 B+ | 89.99 – 88.00
