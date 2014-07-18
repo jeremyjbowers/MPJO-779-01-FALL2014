@@ -10,6 +10,7 @@ Wednesdays, 8 p.m. to 10:30 p.m. | Fall 2014
 
 ## COURSE OVERVIEW
 Merely using the web and digital tools is no longer enough for today's media professionals. Journalists and communicators need to have a practical understanding of how websites and applications work. This class does not aim to make you a professional coder or require any previous web development experience. We want you to come away with enough coding skills that you can effectively collaborate with web developers and continue learning on your own.
+
 You will learn about web development by diving into Git, Python, HTML, CSS and JavaScript. There will be readings and guest speakers, but the major basis for instruction will be hands-on learning activities. You'll learn how web developers work by identifying a project, breaking that project down into features and then building those features. By the end of the class, you won't just have a functional website; you'll be comfortable with the best practices of good development teams.
 
 ## COURSE OBJECTIVES
