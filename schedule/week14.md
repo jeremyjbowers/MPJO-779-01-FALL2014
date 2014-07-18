@@ -1,9 +1,9 @@
 # WEEK 14 (WEDNESDAY, DEC. 3)
 
 ### Topics
-Project management: Catch up if you're behind.
-Career: Getting a job in journalism.
-Career: Applying skills in a live newsroom.
+* Project management: Catch up if you're behind.
+* Career: Getting a job in journalism.
+* Career: Applying skills in a live newsroom.
 
 ### Readings
 * [Getting a Job in Journalism Code](https://source.opennews.org/en-US/articles/getting-job-journalism-code/)

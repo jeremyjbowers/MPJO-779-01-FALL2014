@@ -1,8 +1,8 @@
 # WEEK 10 (WEDNESDAY, NOV. 5)
 
 ### Topics
-Code: Introduction to CSS.
-Code: Applying Bootstrap to our template pages.
+* Code: Introduction to CSS.
+* Code: Applying Bootstrap to our template pages.
 
 ### Readings
 * [Bootstrap Documentation](http://getbootstrap.com/)

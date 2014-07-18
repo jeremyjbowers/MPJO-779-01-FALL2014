@@ -1,8 +1,8 @@
 # WEEK 9 (WEDNESDAY, OCT. 29)
 
 ### Topics
-Code: Introduction to HTML.
-Code: Building the frame of templates.
+* Code: Introduction to HTML.
+* Code: Building the frame of templates.
 
 ### Readings
 * [Rinse and Repeat](https://gettingreal.37signals.com/ch06_Rinse_and_Repeat.php)

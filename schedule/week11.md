@@ -1,8 +1,8 @@
 # WEEK 11 (WEDNESDAY, NOV. 12)
 
 ### Topics
-Code: Introduction to Javascript.
-Code: Applying interaction to our templates.
+* Code: Introduction to Javascript.
+* Code: Applying interaction to our templates.
 
 ### Readings
 * [Epicenter Design](http://gettingreal.37signals.com/ch09_Epicenter_Design.php)

@@ -1,8 +1,8 @@
-# WEEK 11 (WEDNESDAY, NOV. 19)
+# WEEK 12 (WEDNESDAY, NOV. 19)
 
 ### Topics
-Design: Applying design principles.
-Code: Responsive design.
+* Design: Applying design principles.
+* Code: Responsive design.
 
 ### Readings
 * [When We Build](http://vimeo.com/34017777)

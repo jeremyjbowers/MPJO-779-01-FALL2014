@@ -1,4 +1,4 @@
-# WEEK 4 (WEDNESDAY, OCT. 15)
+# WEEK 7 (WEDNESDAY, OCT. 15)
 
 ### Topics
 * Product development: The structure of a news application.
