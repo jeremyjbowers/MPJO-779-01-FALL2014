@@ -56,10 +56,12 @@ This class will feature four different categories of assignments.
 ## GRADING
 Each of the four assignment types will represent 25% of your final grade.
 
-Average of 14 weekly quizzes: 25% of your final grade
-Average of 14 weekly scrum summaries: 25% of your final grade
-Average of 6 bi-weekly progress assessments: 25% of your final grade
-Total score out of 100 for final project: 25% of your final grade
+Assignment type | Percentage of grade
+--------------- | -----------------
+Average of 14 weekly quizzes | 25% of your final grade
+Average of 14 weekly scrum summaries | 25% of your final grade
+Average of 6 bi-weekly progress assessments | 25% of your final grade
+Total score out of 100 for final project | 25% of your final grade
 
 Graduate course grades include A, A-, B+, B, B-, C and F. There are no grades of C+, C- or D.
 
