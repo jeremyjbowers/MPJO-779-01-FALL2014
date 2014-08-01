@@ -1,12 +1,18 @@
 # WEEK 15 (WEDNESDAY, DEC. 10)
 
 ### Topics
-* Demo your Web site.
+* Visualizing data.
+* Implementing a simple visualization.
 
 ### Readings
-* ["Done!"](http://gettingreal.37signals.com/ch06_Done.php)
-* [What's Your Problem?](http://gettingreal.37signals.com/ch02_Whats_Your_Problem.php)
-* [It Shouldn't be a Chore](http://gettingreal.37signals.com/ch02_It_Shouldnt_be_a_Chore.php)
+* [Lists: Design and Construction](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002QF)
+* [Minard](http://www.edwardtufte.com/tufte/minard)
+* [Sparklines](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001lh)
+* [Scaling Counties in a Checkerboard State](http://style.org/iowacaucus/)
+* [Arrested Development](http://apps.npr.org/arrested-development/)
+* [Fire Forecast](http://apps.npr.org/fire-forecast/)
+* [PowerPoint Does Rocket Science](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB&topic_id=1&topic=Ask+E%2eT%2e)
+* [Leo, The Senate Model](http://www.nytimes.com/newsgraphics/2014/senate-model/index.html)
 
 ### Assignments
 * Quiz 14
