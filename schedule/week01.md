@@ -1,5 +1,7 @@
 # WEEK 1 (WEDNESDAY, SEPT. 3)
 
+[SLIDES](https://docs.google.com/presentation/d/1SQs_ItI_zvIZFSD-C7C24gcD4Q0ixH2F-9N0TWYHAqY/edit?usp=sharing)
+
 ### Topics
 * How the internet works.
 * What a Web browser does.
