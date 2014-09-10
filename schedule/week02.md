@@ -1,4 +1,5 @@
 # WEEK 2 (WEDNESDAY, SEPT. 10)
+(SLIDES)[https://docs.google.com/presentation/d/1QwY2hZGinWPEt47i24Sico2PKRovfd2S-EVQ1hzD-9w/edit#slide=id.g3ab087c44_025]
 
 ### Topics
 * Installing software on your computer.
