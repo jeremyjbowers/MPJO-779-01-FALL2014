@@ -1,4 +1,5 @@
 # WEEK 3 (WEDNESDAY, SEPT. 17)
+[SLIDES](http://j.mp/mpjo-779-week3)
 
 ### Topics
 * Product development: Lean UX and user-centered design.
